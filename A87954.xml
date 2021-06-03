@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Holland, relating the designes of the Scotch Presbyter, together with the usage of their king, being an epitome of Mercurius Scoticus, lately printed at Rotterdam, 1650.</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87954</idno><idno type="EEBO-CITATION">99865532</idno>
+  <idno type="VID">117777</idno>
+  <idno type="EEBO-PROQUEST">2240930053</idno>
+  
+            <idno type="STC">Wing L1477</idno>
+            <idno type="STC">Thomason E623_7</idno>
+            <idno type="STC">ESTC R206371</idno>
+            <idno type="PROQUEST">99865532</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865532e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87954)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117777)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 96:E623[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Holland, relating the designes of the Scotch Presbyter, together with the usage of their king, being an epitome of Mercurius Scoticus, lately printed at Rotterdam, 1650.</title>
+               </titleStmt>
+               <extent>269, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at Rotterdam :</pubPlace>
+                  <date>1650 [i.e. 1651]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from the colophon.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Feb. 1650".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685.</term>
+               <term type="geographic_name">Scotland --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:117777:1"/>
+            <head>A Letter from <hi>Holland,</hi> relating the Designes of the Scotch Presbyter, together with the Usage of their King, being an Epitome of <hi>Mercurius Scoticus,</hi> lately Printed at <hi>Rotterdam, 1650.</hi>
+            </head>
+            <p>
+               <hi>SIR,</hi> the Scotch Mist is so thick and dark, their policies so mysterious, that 'tis impossible for common eyes to pierce through into their Designes; onely now and then a <hi>Blithe blinke</hi> happens, whereby the bright face of Truth may be discerned: and such an one I have lately met with, <hi>Mercurius Scoticus,</hi> a piercing <hi>Linceus</hi> that with a curious eye hath peep'd into most of their Plots, and descry'd some secrets the world never knew before. To pre<g ref="char:EOLhyphen"/>vent the irksomnesse of Reading, 'tis but an Epitome I send: His maine scope is, to demonstrate by pregnat proofes, That the Scotch Presbyter never intended <hi>Charles</hi> the II. should be their King, or to espouse his quarrell, or Ingage in a Warre with the English: for the truth thereof, he appeales to the judgement of every rationall man, that will but perpend their actions both before His Majesties comming amongst them, at His arrivall, and ever since His abode there.</p>
+            <p>Before His comming into <hi>Scotland,</hi> Their Proclaiming him King, with a limitation, whereby Regall Majesty became fetter'd in the snares of the Covenant. Their most unrea<g ref="char:EOLhyphen"/>sonable Propositions and Demands, sent by their Commissio<g ref="char:EOLhyphen"/>ners to the Treaty at <hi>Breda:</hi> Their new modelling the Scotch State after the English Mode: Their barbarous murdering the <hi>Marquesse of Montrosse,</hi> His Majesties Generall, and sun<g ref="char:EOLhyphen"/>dry others of His most loyall Subjects: Their bannishing all the rest in whom the least sparke of loyalty appear'd: Their
+<pb n="2" facs="tcp:117777:2"/> stopping the mouthes of all such Ministers as affected Monar<g ref="char:EOLhyphen"/>chy and hated Independency, and the Anti-monarchicall Sectaries: Their entrusting the Army and strengths of the Kingdome to the sworne Enemies of Monarchy: Their Commiting the chiefe Government both of Kirke and King<g ref="char:EOLhyphen"/>dome to such as had lifted up their hands against the Royall Family, and by shewing themselves so active in the late Re<g ref="char:EOLhyphen"/>bellion against the Father, testified to all the world their endeavours to cut off his Posterity, Root and Branch: Their sending back <hi>William Murrey</hi> into <hi>Holland</hi> (after the <hi>Marquesse of Montrosse</hi> his death) to breake off the Treaty before it was concluded; and if finished, to command their Commissio<g ref="char:EOLhyphen"/>ners in their name to disclaime it, as having proceeded fur<g ref="char:EOLhyphen"/>ther then either their Commission or Instructions did war<g ref="char:EOLhyphen"/>rant them: and that their Commissioners by no meanes should bring home their King, for that he had Invaded the Kingdome in time of the Treaty; (which indeed was no rea<g ref="char:EOLhyphen"/>son at all, because in that Treaty there was no Cessation agreed on) if Mr. <hi>Murrey</hi> had arrived in <hi>Holland</hi> before His Majesties shipping for <hi>Scotland,</hi> doubtlesse the Commissio<g ref="char:EOLhyphen"/>ners would not have presum'd to have brought him thi<g ref="char:EOLhyphen"/>ther.</p>
+            <p>Then at His Majesties arrivall: Their Inglorious Recep<g ref="char:EOLhyphen"/>tion of their King, without preparation of any one of his hou<g ref="char:EOLhyphen"/>ses, without making any provision or entertainment fit for a Prince: Their banishing all his Majesties domestick servants: Their forbidding any of the Royall party to come within 10. miles of the Court: Their Ministers impudent Preaching, their disgracefull and dishonourable Language even to His Majesties face, touching his blessed Father, and the Royall Family in their Court-Sermons.</p>
+            <p>Lastly, during his abode there, Their receiving of him to
+<pb n="3" facs="tcp:117777:2"/> the exercise of His Regall power, with this limitation, that he Rule according the Counsells of Kirke and Kingdome: their not putting themselves into a Posture of defence, till Generall <hi>Cromwell</hi> had entred into the Kingdome: Their not fortifying of <hi>Leeth:</hi> Their not Crowning of His Majesty, ac<g ref="char:EOLhyphen"/>cording to the Agreement at <hi>Breda:</hi> Their refusing to give fourescore Danish Officers entertainment, who landed last July at St. <hi>Andrews:</hi> their rejecting the assistance of all For<g ref="char:EOLhyphen"/>reigners whatsoever: Their Casheering of those they call <hi>Malignants,</hi> both English and Scotch, to the number of 5000. Foot and Horse: Their not setting up His Majesties Stan<g ref="char:EOLhyphen"/>derd: Their not permitting him to remaine in the Army: Their Publishing most dishonourable Proclamations and Declarations in His Majesties Name, together with the unci<g ref="char:EOLhyphen"/>vill usage of His Majesty, even after Generall <hi>Cromwell</hi> had defeated their Army at <hi>Dunbar;</hi> the cause of which over<g ref="char:EOLhyphen"/>throw they impute to His sinnes, and the sinnes of His Fathers House. By all these Evidences it is more then manifest, 'twas never the intention of the Scotch Presbyter to esta<g ref="char:EOLhyphen"/>blish <hi>Charles</hi> the II. in His Fathers Thron: and let the World judge, whether by these their Actions, they have not now approv'd themselves as treacherous, as the <hi>Marquesse of Mon<g ref="char:EOLhyphen"/>trosse</hi> privately by his Avisoes represented them to His Ma<g ref="char:EOLhyphen"/>jestie, and Publiquely to all the World by His Declarati<g ref="char:EOLhyphen"/>on.</p>
+            <p>
+               <hi>Sir,</hi> for confirmation of these truths, and your further satis<g ref="char:EOLhyphen"/>faction in every particular, I beseech you to peruse the Act of the 27. of June last, confirming the Treaty, together with all the Declarations put forth by the Scots since that month; but especially that which was set out by the Kirke, and ap<g ref="char:EOLhyphen"/>prov'd of by the Committee of State, Aug. 13. as also the Reasons of their Fast Published the 10. of Sept. following,
+<pb n="4" facs="tcp:117777:3"/> where you shall finde these to bee the grounds of their ensu<g ref="char:EOLhyphen"/>ing Fast.</p>
+            <p>Ye are to mourne
+<list>
+                  <item>1. For the sinnes of the Nation in-generall.</item>
+                  <item>2. For the sinnes of our Commissioners, in bringing over our King so soone.</item>
+                  <item>3. For accepting of the King, before he had more sufficiently Re<g ref="char:EOLhyphen"/>pented him of his by-past sinnes.</item>
+                  <item>4. For the not purging the Army of all Malignants.</item>
+                  <item>5. For the too much trusting the Arme of flesh, &amp;c.</item>
+               </list>
+            </p>
+            <p>From these and the like Printed Declarations, you may most clearely, and assuredly collect the undenyable truth of that which <hi>Mercurius Scoticus</hi> endeavours plainely to prove by his Discourse.</p>
+            <list>
+               <head>Foure Reasons why the Scotch Presbyter did not Crowne <hi>Charles</hi> the 2.</head>
+               <item>First, Because it would beget in the hearts of his People a more reverend and honourable esteeme of his Majesty: for though the Coronation in it selfe be but a Ceremony; yet in the Peoples esteem it is most essentiall.</item>
+               <item>Secondly, Because at the Coronation the Nobility, Gen<g ref="char:EOLhyphen"/>try, and Commons doe take the Oath of Fidelity without li<g ref="char:EOLhyphen"/>mitation, which would shake off the Fetters their holy Co<g ref="char:EOLhyphen"/>venant hath put upon our obedience.</item>
+               <item>Thirdly, Because at the Coronation a generall pardon is granted, which would be a meanes to unite all parties, and take away all Factious Exceptions.</item>
+               <item>Fourthly, Because they could not agree whether he should be anointed, or not; the Scotch Presbyter having taught for
+<pb n="5" facs="tcp:117777:3"/> these many yeares, that <hi>Princes are not the Lords Anoynted:</hi> and if to be anointed, whether it should be done by the Presbyter alone, or assisted by his <hi>Ruling-Elder.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>Sir:</hi> Touching the Scots Affaires, since the defeate of their Army at <hi>Dunbar,</hi> the most exact account I have met with is this; Immediately after that defeate, his Majesty prudent<g ref="char:EOLhyphen"/>ly endeavours a Reconciliation betweene all Parties, that all his Subjects, how ever formerly divided upon severall Inte<g ref="char:EOLhyphen"/>rests, might now unite and joyne against the Common Ene<g ref="char:EOLhyphen"/>my: But the Presbyter, by Covenant a sworne Enemy to the King, and his Party, sought by all meanes to hinder this Union; and for that purpose <hi>Ker</hi> and <hi>Straughen,</hi> the two Kirk Favorites, were brought off to divide themselves, and draw away a considerable Force into the West of <hi>Scotland,</hi> a part of the Countrey well affected to the English, and not for<g ref="char:EOLhyphen"/>getting the great benefit Generall <hi>Cromwell</hi> had done them after <hi>Preston</hi> fight, in freeing them from the power and op<g ref="char:EOLhyphen"/>pression of the <hi>Hamilton</hi> Forces: And this divided Party were they, who fearing the miscarriages of all Affaires both in State and Army, might bee imputed to them, according as they had justly deserved, began to cry whore first, and cast dirt in his Majesties face, to save themselves, and their owne reputation.</p>
+            <p>But the King perceiving his Royal Endeavours to bee blasted by the calumnies of some, that countermined his de<g ref="char:EOLhyphen"/>signes, and the dayly insolencies of the Ministery, that conti<g ref="char:EOLhyphen"/>nually aspersed his blessed Father, and himselfe in all their Sermons, growing intollerable; besides the contempt the State put upon him, not so much as admitting him to bee present at their Debates concerning Publick Affaires, tooke up a Resolution to cast himselfe upon his Loyal Subjects (that had then newly entred an Engagement for him) chu<g ref="char:EOLhyphen"/>sing
+<pb n="6" facs="tcp:117777:4"/> rather to dye Gallantly in the field with his sword in his hand, then sit still at St. <hi>Johnston,</hi> as an Image or Shadow of a King: and watching his opportunity he passed the River of <hi>Tay,</hi> and made his escape to <hi>Clova</hi> in <hi>Angus,</hi> where the same night hee was discovered, through the negligence of some of his servants, and shortly after surprized by <hi>Robert Mongome<g ref="char:EOLhyphen"/>ry,</hi> and being brought back to St. <hi>Johnston,</hi> his ill usage was ten times worse then before, the Presbyter not sparing to blaspheme him to his face, and revile him in the most inso<g ref="char:EOLhyphen"/>lent and disgracefull manner they could invent.</p>
+            <p>Notwithstanding his Majesties surprizall, the Royal Party in the North doe not desist from their Loyal and Honoura<g ref="char:EOLhyphen"/>ble Intentions, but make their advance Southwards, in hope by some meanes or other to effect the Kings freedome: Up<g ref="char:EOLhyphen"/>on their march they heare of Sir <hi>John Brownes</hi> Regiment, and two more commanded by Colonel <hi>Maule,</hi> and Colonel <hi>Pitscotty,</hi> sent by the Kirk to suppresse them: These they en<g ref="char:EOLhyphen"/>counter valiantly at <hi>Glames</hi> in <hi>Angus,</hi> and by a gallant charge rout those three Regiments; which happy Victory so anima<g ref="char:EOLhyphen"/>ted the Nobility and Gentry of those Parts, that they unani<g ref="char:EOLhyphen"/>mously rise for the King: Divers also of <hi>David Leslees</hi> Troops revolted after that fight, and betooke themselves to the right side; but it did so greatly terrifie the Kirks Party, that they presently desire a Treaty, whereto the Royal Party condes<g ref="char:EOLhyphen"/>cended, upon condition Hostages be given on both sides; and to bee short, my Lord <hi>Ogilvy</hi> was accepted of for the Royal Party, and <hi>Dumfernling</hi> for the Kirk.</p>
+            <p>At this Treaty the more the King and his side condescen<g ref="char:EOLhyphen"/>ded, the more insolent grew the Kirk in their Demands; in<g ref="char:EOLhyphen"/>somuch that the Treaty brake up, without satisfaction to either Part: No sooner was that dissolved, but presently the Kirk thunder out Excommunications against the Royal
+<pb n="7" facs="tcp:117777:4"/> Party, and nothing would appease them, till his Majesty was constrained to command Generall <hi>Middleton,</hi> the Earle of <hi>Athol,</hi> and Marquesse <hi>Huntley,</hi> to disband, which in obedi<g ref="char:EOLhyphen"/>ence to his Majesties Authority, immediately they did.</p>
+            <p>Now the Kirk having gained the poynt they aimed at, command <hi>David Leslee,</hi> with the greatest part of his Army to march into the North of <hi>Scotland,</hi> there to recruit his bro<g ref="char:EOLhyphen"/>ken Regiments, and to secure the persons of all Malignants; No sooner did this Newes arrive in the North (as ill Newes flies apace) but the Engagers betake themselves to their Armes, and stand upon their guard, Generall <hi>Middleton</hi> once more accepting of the Command, as well for his owne safe<g ref="char:EOLhyphen"/>ty, as the preservation of his Majesty, and his Interest; And that he might be sure to leave no Enemy behinde his back, he presently marches Northwards, and takes in the Garrison of <hi>Straboggy,</hi> and the Bogge of <hi>Gight,</hi> two strong houses, be<g ref="char:EOLhyphen"/>longing to Marquesse <hi>Huntly,</hi> thereby very much increasing his Army; with which now growne to a considerable Body, hee advanceth Southwards, resolved to fight <hi>David Leslee:</hi> but when the Armies faced each other, <hi>Leslees</hi> men began to mutiny, and refused to fight against their owne Countrey-men; This begot a Treaty, and that a friendly Accord be<g ref="char:EOLhyphen"/>tween the Generalls; where 'twas agreed on by both parts, that all true hearted Scots, lovers of their King and Coun<g ref="char:EOLhyphen"/>trey, should now unite and joyne against the Common Ene<g ref="char:EOLhyphen"/>my, who miserably wasted their Countrey, and had barba<g ref="char:EOLhyphen"/>rously killed in coole blood, and starved divers of their Coun<g ref="char:EOLhyphen"/>treymen, whom they carried Prisoners into <hi>England.</hi>
+            </p>
+            <list>
+               <head>The Heads of that Agreement were:</head>
+               <item>1. That an Act of Indemnity should bee passed, which might include all persons.</item>
+               <pb n="8" facs="tcp:117777:5"/>
+               <item>2. That a free Parliament bee called, to meet towards the end of <hi>December.</hi>
+               </item>
+               <item>3. That his Majesty bee solemnly crowned.</item>
+               <item>4. That the Kirk-men bee debarred from intermedling with Ci<g ref="char:EOLhyphen"/>vill or Military Affaires.</item>
+            </list>
+            <p>Whilst these things are acting at home, there are some stirring Instruments abroad, that have endeavoured to sow some jealousies between the King and his Brother, the Duke of <hi>Yorke;</hi> and for that purpose it is thought <hi>W. M.</hi> the Kirk-Agent hath procured a Warrant from the King to bring the Duke into <hi>Scotland,</hi> that if it may serve for the Kirks advan<g ref="char:EOLhyphen"/>tage, they may ruine the two Brothers both at once: For I can assure you, that before the Presbyter will lose his supre<g ref="char:EOLhyphen"/>macy over Princes, he will joyne with the greatest enemies of Monarchy utterly to destroy it.</p>
+            <p>
+               <hi>Sir,</hi> I beg your pardon for creating you all this trouble, who must subscribe my selfe,</p>
+            <closer>
+               <signed>Your most humble servant.</signed>
+               <dateline>From <hi>Rotterdam</hi>
+                  <date>10/20. Novemb. 1650.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>Sir, By the next you shall receive the rest of <hi>Mercurius Scoticus</hi> Epitomized.</p>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>Rotterdam.</hi> 1650.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
